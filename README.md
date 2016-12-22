@@ -1,5 +1,6 @@
 # Recommendation_Schema_Performance_Comparison_on_Amazon_Rating_Dataset
 Author: Huaiyuan Tu (yg2430), Yanjia Zhu (yz3021) and Yixuan Guo (yg2430) @ Columbia University
+
 -- This is a term project for EECS 6893 Big Data Analytics course.
 
 Online-shopping has become extremely common in our daily
