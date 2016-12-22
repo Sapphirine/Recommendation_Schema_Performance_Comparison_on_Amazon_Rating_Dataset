@@ -1,0 +1,2 @@
+# Recommendation_Schema_Performance_Comparison_on_Amazon_Rating_Dataset
+we want to try different recommendation schema on the different categories's rating data and compare the evaluation results with each other to have a better understanding of the link between item category and recommendation performance. Eventually, we hope this finding would lead to enhance of recommendation research on electronic merchandise.
